@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![My Image](images/https://i.imgur.com/rOnjaIA.png)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click link to see example.    
 </p>
 <br />
 
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   ![My Image](images/https://imgur.com/V98FHXI)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Through active directory was able to assign usernames and passwords and was able to unlock accounts. Please click link to see example.  
 </p>
 <br />
 
@@ -46,6 +46,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![My Image](https://imgur.com/e1XzRii)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Was able to create VPN through Microsoft Azure and Proton VPN.  Please click link to see example.  
 </p>
 <br />
