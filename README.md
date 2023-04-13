@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![My Image](images/https://i.imgur.com/rOnjaIA.png)
+![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
 </p>
 <p>
 Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click link to see example.    
