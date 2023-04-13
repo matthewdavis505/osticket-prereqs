@@ -35,7 +35,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
 <br />
 
 <p>
-  ![My Image](images/https://imgur.com/V98FHXI)
+  ![Active Directory](images/https://imgur.com/V98FHXI)
 </p>
 <p>
 Through active directory was able to assign usernames and passwords and was able to unlock accounts. Please click link to see example.  
