@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
 </p>
 <p>
-Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click link above to see example.    
+Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
 </p>
 <br />
 
@@ -38,7 +38,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
   ![Active Directory](images/https://imgur.com/V98FHXI)
 </p>
 <p>
-Installed active directory and assigned usernames and passwords and unlocked accounts. Please click link above to see example.  
+Installed active directory and assigned usernames and passwords and unlocked accounts. Please click above link to see example.  
 </p>
 <br />
 
