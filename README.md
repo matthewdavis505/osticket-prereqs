@@ -43,7 +43,7 @@ Through active directory was able to assign usernames and passwords and was able
 <br />
 
 <p>
-![My Image](https://imgur.com/e1XzRii)
+![VPN](https://imgur.com/e1XzRii)
 </p>
 <p>
 Was able to create VPN through Microsoft Azure and Proton VPN.  Please click link to see example.  
