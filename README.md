@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
 </p>
 <p>
-Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click link to see example.    
+Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click link above to see example.    
 </p>
 <br />
 
@@ -38,7 +38,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
   ![Active Directory](images/https://imgur.com/V98FHXI)
 </p>
 <p>
-Installed active directory was able to assign usernames and passwords and was able to unlock accounts. Please click link to see example.  
+Installed active directory was able to assign usernames and passwords and was able to unlock accounts. Please click link above to see example.  
 </p>
 <br />
 
@@ -46,6 +46,6 @@ Installed active directory was able to assign usernames and passwords and was ab
 ![VPN](https://imgur.com/e1XzRii)
 </p>
 <p>
-Created a VPN through Microsoft Azure and Proton VPN.  Please click link to see example.  
+Created a VPN through Microsoft Azure and Proton VPN.  Please click link above to see example.  
 </p>
 <br />
