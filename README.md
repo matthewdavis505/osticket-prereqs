@@ -38,7 +38,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
   ![Active Directory](images/https://imgur.com/V98FHXI)
 </p>
 <p>
-Through active directory was able to assign usernames and passwords and was able to unlock accounts. Please click link to see example.  
+Installed active directory was able to assign usernames and passwords and was able to unlock accounts. Please click link to see example.  
 </p>
 <br />
 
@@ -46,6 +46,6 @@ Through active directory was able to assign usernames and passwords and was able
 ![VPN](https://imgur.com/e1XzRii)
 </p>
 <p>
-Was able to create VPN through Microsoft Azure and Proton VPN.  Please click link to see example.  
+Create a VPN through Microsoft Azure and Proton VPN.  Please click link to see example.  
 </p>
 <br />
