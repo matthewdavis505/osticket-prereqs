@@ -46,6 +46,6 @@ Installed active directory was able to assign usernames and passwords and was ab
 ![VPN](https://imgur.com/e1XzRii)
 </p>
 <p>
-Create a VPN through Microsoft Azure and Proton VPN.  Please click link to see example.  
+Created a VPN through Microsoft Azure and Proton VPN.  Please click link to see example.  
 </p>
 <br />
